@@ -6,7 +6,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynarap&layout=compact&theme=omni" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynarap&theme=omni&layout=compact"/>
   
 <img src="https://streak-stats.demolab.com/?user=taynarap&theme=omni" width="50%" />
 
