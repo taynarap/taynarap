@@ -24,11 +24,15 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="35px" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="35px"  />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="32px"  />
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px" />
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" />
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px" />
+  
+<img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" width="40px" />
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px" />
 
